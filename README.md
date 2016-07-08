@@ -1,6 +1,7 @@
-# workoutlogger
+# Workoutlogger
 
-> A Vue.js project
+> A little app to test out vue.js and node
+
 
 ## Build Setup
 
@@ -25,3 +26,4 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
